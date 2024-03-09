@@ -1,0 +1,15 @@
+D:\Storage_education\Languages\lecture_1\Task_1\bin\Debug\net8.0\Task_1.exe
+D:\Storage_education\Languages\lecture_1\Task_1\bin\Debug\net8.0\Task_1.deps.json
+D:\Storage_education\Languages\lecture_1\Task_1\bin\Debug\net8.0\Task_1.runtimeconfig.json
+D:\Storage_education\Languages\lecture_1\Task_1\bin\Debug\net8.0\Task_1.dll
+D:\Storage_education\Languages\lecture_1\Task_1\bin\Debug\net8.0\Task_1.pdb
+D:\Storage_education\Languages\lecture_1\Task_1\obj\Debug\net8.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Storage_education\Languages\lecture_1\Task_1\obj\Debug\net8.0\Task_1.AssemblyInfoInputs.cache
+D:\Storage_education\Languages\lecture_1\Task_1\obj\Debug\net8.0\Task_1.AssemblyInfo.cs
+D:\Storage_education\Languages\lecture_1\Task_1\obj\Debug\net8.0\Task_1.csproj.CoreCompileInputs.cache
+D:\Storage_education\Languages\lecture_1\Task_1\obj\Debug\net8.0\Task_1.sourcelink.json
+D:\Storage_education\Languages\lecture_1\Task_1\obj\Debug\net8.0\Task_1.dll
+D:\Storage_education\Languages\lecture_1\Task_1\obj\Debug\net8.0\refint\Task_1.dll
+D:\Storage_education\Languages\lecture_1\Task_1\obj\Debug\net8.0\Task_1.pdb
+D:\Storage_education\Languages\lecture_1\Task_1\obj\Debug\net8.0\Task_1.genruntimeconfig.cache
+D:\Storage_education\Languages\lecture_1\Task_1\obj\Debug\net8.0\ref\Task_1.dll
