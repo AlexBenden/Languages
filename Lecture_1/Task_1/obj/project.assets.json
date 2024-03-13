@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Storage_education\\Languages\\lecture_1\\Task_1\\Task_1.csproj",
+      "projectUniqueName": "D:\\Storage_education\\Languages\\Lecture_1\\Task_1\\Task_1.csproj",
       "projectName": "Task_1",
-      "projectPath": "D:\\Storage_education\\Languages\\lecture_1\\Task_1\\Task_1.csproj",
+      "projectPath": "D:\\Storage_education\\Languages\\Lecture_1\\Task_1\\Task_1.csproj",
       "packagesPath": "C:\\Users\\Bende\\.nuget\\packages\\",
-      "outputPath": "D:\\Storage_education\\Languages\\lecture_1\\Task_1\\obj\\",
+      "outputPath": "D:\\Storage_education\\Languages\\Lecture_1\\Task_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bende\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
